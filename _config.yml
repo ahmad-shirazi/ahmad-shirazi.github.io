@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ahmad Mohammadshirazi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ahmad Mohammadshirazi"
 description              : &description "personal description"
 url                      : https://ahmad-shirazi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ahmad Mohammadshirazi"
-  avatar           : "profile.png"
-  bio              : "I'm a Ph.D. student at OSU"
+  avatar           : "ahmad-photo.png"
+  bio              : "Ph.D. student in CSE at OSU"
   location         : "Columbus, OH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
