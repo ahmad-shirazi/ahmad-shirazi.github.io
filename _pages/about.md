@@ -18,6 +18,9 @@ Research
 I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Nowadays, I am especially passionate about the developments in large language models (LLMs). Some of my past papers are as follows:
 
 * **Time Series**:
+
+  * [DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis](https://arxiv.org/pdf/2412.00994). Submitted in [KDD 2025](https://github.com/ahmad-shirazi/DSSRNN).
+
   * [Novel Physics-Based Machine-Learning Models for Indoor Air Quality Approximations](https://arxiv.org/abs/2308.01438). Published in [The 9th SIGKDD International Workshop on Mining and Learning from Time Series, 2023](https://kdd-milets.github.io/milets2023/).
 
   * [Predicting Airborne Pollutant Concentrations and Events in a Commercial Building Using Low-Cost Pollutant Sensors and Machine Learning: A Case Study](https://www.sciencedirect.com/science/article/pii/S0360132322000816). Published in [Building and Environment, 2022](https://www.sciencedirect.com/journal/building-and-environment).
@@ -25,9 +28,15 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 
 * **Multimodal**:
 
-  <!-- * [DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation](). Submitted in CVPR -->
+  * [DLaVA: Document Language and Vision Assistant for Answer Localization with Enhanced Interpretability and Trustworthiness](https://arxiv.org/abs/2412.00151). Submitted in [CVPR, 2024](https://github.com/ahmad-shirazi/AnnotMLLM).
+ 
+  * [DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation](https://arxiv.org/pdf/2406.17591). Published in [ICML, 2024](https://github.com/ahmad-shirazi/DocParseNet)
 
   * [CrashFormer: A Multimodal Architecture to Predict the Risk of Crash](https://dl.acm.org/doi/pdf/10.1145/3615900.3628769). Published in [Proceedings of the 1st ACM SIGSPATIAL International Workshop on Advances in Urban-AI, 2023](https://dl.acm.org/doi/proceedings/10.1145/3615900).
+
+
+
+
 
 
 
