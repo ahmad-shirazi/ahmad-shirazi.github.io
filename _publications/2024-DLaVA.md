@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-DLaVA
 excerpt: 'DLaVA enhances Document Visual Question Answering by integrating answer localization with advanced interpretability, ensuring precise and trustworthy results for complex document layouts.'
 date: 2024-12-01
-venue: 'ICLR (submitted)'
+venue: 'CVPR (submitted)'
 paperurl: 'https://arxiv.org/pdf/2412.00151'
 citation: 'Mohammadshirazi, A., Neogi, PPG., Lim, S., & Ramnath, R. (2024). DLaVA: Document Language and Vision Assistant for Answer Localization with Enhanced Interpretability and Trustworthiness. arXiv preprint arXiv:2412.00151.'
 ---
