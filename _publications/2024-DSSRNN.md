@@ -3,8 +3,8 @@ title: "DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for 
 collection: publications
 permalink: /publication/2024-DSSRNN
 excerpt: 'DSSRNN is a cutting-edge time series forecasting model that combines decomposition techniques with state-space and recurrent neural networks to deliver exceptional accuracy and efficiency in environmental and broader analytical applications.'
-date: 2024-12-01
-venue: 'ICLR (submitted)'
+date: 2025-01-25
+venue: 'ICLM (submitted)'
 paperurl: 'https://arxiv.org/pdf/2412.00994'
 citation: 'Mohammadshirazi, A., Nosratifiroozsalari, A., & Ramnath, R. (2024). DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis. arXiv preprint arXiv:2412.00994.'
 ---

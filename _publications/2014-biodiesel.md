@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Energy and cost analyses of biodiesel production from waste cooking oil"
 collection: publications
 permalink: /publication/2014-biodiesel
@@ -19,4 +19,4 @@ __Ahmad Mohammadshirazi__, Ahmad Mohammadshirazi, Asadolah Akram, Shahin Rafiee,
 
 
 
-[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/biodiesel.pdf)
+[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/biodiesel.pdf) -->

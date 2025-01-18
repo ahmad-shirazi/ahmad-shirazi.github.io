@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-Novel-Physics-Based-Machine-Learning-Models-for-Indoor-Air-Quality-Approximations
 excerpt: 'This paper centers on enhancing indoor air quality predictions in commercial buildings through the innovative integration of low-cost sensors and advanced physics-based machine learning models.'
 date: 2023-08-07
-venue: 'The 9th SIGKDD International Workshop on Mining and Learning from Time Series'
+venue: '29TH ACM SIGKDD Conference On Knowledge Discovery And Data Mining: Mining and Learning from Time Series'
 paperurl: 'https://arxiv.org/abs/2308.01438'
 citation: 'Mohammadshirazi, A., Nadafian, A., Monsefi, A. K., Rafiei, M. H., & Ramnath, R. (2023). Novel Physics-Based Machine-Learning Models for Indoor Air Quality Approximations. arXiv preprint arXiv:2308.01438.'
 ---

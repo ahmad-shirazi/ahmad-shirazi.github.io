@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "On the study of energy and cost analyses of orange production in Mazandaran province"
 collection: publications
 permalink: /publication/2016-kombucha-beverage-production
@@ -19,4 +19,4 @@ __Ahmad Mohammadshirazi__, Asadolah Akram, Shahin Rafiee, Elnaz Bagheri Kalhor
 
 
 
-[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/orange.pdf)
+[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/orange.pdf) -->

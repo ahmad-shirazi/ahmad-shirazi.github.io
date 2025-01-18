@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Computer Science and Engineering at The Ohio State University, where I began my journey in August 2020. Under the expert guidance of [Prof. Rajiv Ramnath](http://web.cse.ohio-state.edu/~ramnath.6/), my research is deeply rooted in the realms of time series machine learning, image processing, and natural language processing (NLP). I am dedicated to exploring intricate algorithms and data analysis techniques within these domains.
+Since August 2020, I have been pursuing a Ph.D. in Computer Science at The Ohio State University under the expert guidance of [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6). My research focuses on Large Language Models (LLMs), Vision-Language Models (VLMs), Time Series Analysis, and Multimodal Systems, with a strong emphasis on bridging vision and language understanding, document processing, and smart mobility. My work has been recognized at prestigious conferences such as ICML and SIGKDD.
 
-In a professional capacity, I have been enhancing my practical skills as a Machine Learning Engineer at [FlairSoft Company](https://flairsoft.net/) in Columbus, Ohio, since May 2022. My role involves a collaborative effort with a team of developers, focusing on developing advanced SQL queries for data extraction, transformation, and loading. I am responsible for implementing cutting-edge machine learning algorithms. My work also includes applying NLP and machine learning for document information extraction, conducting thorough data analysis to discover patterns and insights, and contributing to code reviews, testing, and debugging. Additionally, I am involved in developing comprehensive software documentation and user manuals for new features and products.
+In May 2022, I joined [FlairSoft](https://flairsoft.net/)  as a Senior Machine Learning Scientist, where I’ve developed advanced solutions, including risk analysis models, speech-to-text systems, and document annotation tools. Combining academic research with practical applications, I am committed to leveraging cutting-edge technologies to solve real-world challenges and drive innovation.
 
 
 Research
 ------
-I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Nowadays, I am especially passionate about the developments in large language models (LLMs). Some of my past papers are as follows:
+I am broadly interested in the fields of Machine Learning, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Systems, and Time Series Analysis. My research explores innovative ways to bridge vision and language understanding, focusing on document processing and predictive modeling. Some of my past papers are as follows:
 
 * **Time Series**:
 

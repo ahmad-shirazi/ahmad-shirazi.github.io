@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-DocParseNet
 excerpt: 'DocParseNet combines semantic segmentation and OCR embeddings to deliver precise, efficient, and context-aware annotation of scanned documents.'
 date: 2024-07-21
-venue: 'ICML'
+venue: 'ICML: Efficient Systems for Foundation Models (ES-FoMo II)'
 paperurl: 'https://arxiv.org/pdf/2406.17591'
 citation: 'Mohammadshirazi, A., Nosratifiroozsalari, A., Zhou, Z., Kulshrestha, D., & Ramnath, R. (2024). DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation. arXiv preprint arXiv:2406.17591.'
 ---

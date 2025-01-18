@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Energy and cost analyses of kombucha beverage production"
 collection: publications
 permalink: /publication/2016-kombucha-beverage-production
@@ -19,4 +19,4 @@ __Ahmad Mohammadshirazi__, Elnaz Bagheri Kalhor
 
 
 
-[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/kombucha.pdf)
+[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/kombucha.pdf) -->

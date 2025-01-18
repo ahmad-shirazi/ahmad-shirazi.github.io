@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "An analysis of energy use and relation between energy inputs and yield in tangerine production"
 collection: publications
 permalink: /publication/2012-tangerine
@@ -19,4 +19,4 @@ __Ahmad Mohammadshirazi__, Asadolah Akram, Shahin Rafiee, Seyyed Hashem Mousavi 
 
 
 
-[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/tangerine.pdf)
+[Download __paper__ _here_](http://ahmad-shirazi.github.io/files/tangerine.pdf) -->
