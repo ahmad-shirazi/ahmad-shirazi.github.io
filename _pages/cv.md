@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ahmad - CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -61,9 +61,9 @@ Service and leadership
 
 <!-- Download CV
 ======== -->
-[Download CV Here](/files/Ahmad-CV.pdf). 
+<!-- [Download CV Here](/files/Ahmad-CV.pdf).  -->
 
-# Ahmad Mohammadshirazi - CV
+<!-- # Ahmad - CV -->
 
 **[Download CV Here](../files/Ahmad_CV.pdf)**  
 
@@ -73,8 +73,7 @@ Service and leadership
 - **Ph.D. Candidate in Computer Science and Engineering**, The Ohio State University (2020 - Present)  
   - Supervisor: Prof. Rajiv Ramnath  
   - Research Focus: Large Language Models (LLMs), Vision-Language Models (VLMs), and Time Series Prediction.  
-- **M.Sc. in Computer Science and Engineering**, Iran University of Science and Technology (2015 - 2017)  
-- **B.Sc. in Computer Science**, Shahid Beheshti University (2011 - 2015)  
+
 
 ---
 
@@ -87,24 +86,12 @@ Service and leadership
 - Created a Retrieval-Augmented Generation (RAG) chatbot for efficient knowledge retrieval.  
 - Designed multilingual translation systems for global accessibility.  
 
-### Chief Technology Officer  
-**Roysa LLC**, Columbus, OH (2017 – 2020)  
-- Optimized health insurance cost models for emergency rooms.  
-- Spearheaded data pipelines for feature extraction and enrichment.  
-- Led research initiatives in food production optimization.  
-
-### Chief Executive Officer  
-**Sabz Gostar Darma Inc.**, Tehran, Iran (2012 – 2017)  
-- Directed strategic organizational initiatives and assembly line optimization.  
-- Managed interdisciplinary teams across engineering and operations.  
-- Innovated in laboratory research, leading to patented technologies.  
-
 ---
 
 ## Skills
 
 ### Programming  
-- Python, CUDA, SQL  
+- Python, CUDA
 
 ### Deep Learning Frameworks  
 - TensorFlow, PyTorch, Scikit-Learn  
@@ -117,8 +104,8 @@ Service and leadership
 ## Honors & Awards
 - **NSF Research Traineeship Program (2021–2022)**  
   - Focus: Data-Driven Sustainable Energy Systems  
-- **Earthworm Powder Machine to Feed Fish (Iran Patent #13955)**, 2017  
-- **Ranked Top 1%, National B.Sc Entrance Exam of Mathematics**, Iran, 2011  
+- **Earthworm Powder Machine to Feed Fish (Iran Patent #13955)**, Iran, 2017  
+- **Kombucha Brewing System by Application of Acidity Control (Iran Patent #85554)**, Iran, 2015  
 
 ---
 
