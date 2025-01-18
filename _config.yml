@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "Ahmad Mohammadshirazi"
   avatar           : "ahmad-photo.png"
-  bio              : "Senior Machine Learning Scientist @ Flairsoft"
-  bio              : "Ph.D. candidate in Computer Science @ The Ohio State University"
+  # bio              : "Senior Machine Learning Scientist @ Flairsoft | Ph.D. Candidate in Computer Science @ The Ohio State University"
+  bio: |
+    Senior Machine Learning Scientist at FlairSoft  
+    Ph.D. Candidate in Computer Science at The Ohio State University
   location         : "Columbus, OH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
