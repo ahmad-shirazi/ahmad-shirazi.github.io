@@ -10,7 +10,7 @@ redirect_from:
 
 Since August 2020, I have been pursuing a Ph.D. in Computer Science at The Ohio State University under the expert guidance of [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6). My research focuses on Large Language Models (LLMs), Vision-Language Models (VLMs), Time Series Analysis, and Multimodal Systems, with a strong emphasis on bridging vision and language understanding, document processing, and smart mobility. My work has been recognized at prestigious conferences such as ICML and SIGKDD.
 
-In May 2022, I joined [FlairSoft](https://flairsoft.net/)  as a Senior Machine Learning Scientist, where I’ve developed advanced solutions, including risk analysis models, speech-to-text systems, and document annotation tools. Combining academic research with practical applications, I am committed to leveraging cutting-edge technologies to solve real-world challenges and drive innovation.
+In May 2022, I joined [Flairsoft](https://flairsoft.net/)  as a Senior Machine Learning Scientist, where I’ve developed advanced solutions, including risk analysis models, speech-to-text systems, and document annotation tools. Combining academic research with practical applications, I am committed to leveraging cutting-edge technologies to solve real-world challenges and drive innovation.
 
 
 Research
